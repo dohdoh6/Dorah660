@@ -18,7 +18,7 @@
                 <p data-testid="currentDayOfTheWeek">Wednesday</p>
                 <p data-testid="currentUTCTime">1631234428000</p>
                 <p data-testid="myTrack">Frontend</p>
-                <a href="https://github.com/yourusername/your-repo" data-testid="githubURL">Visit My GitHub</a>
+                <a href="https://github.com/dohdoh6/Dorah660" data-testid="githubURL">Visit My GitHub</a>
             </div>
         </main>
     </div>
